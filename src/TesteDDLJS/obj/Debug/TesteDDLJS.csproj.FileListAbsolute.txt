@@ -1,0 +1,78 @@
+C:\Projects\Demos\_lixo\TesteDDLJS\TesteDDLJS\bin\TesteDDLJS.dll.config
+C:\Projects\Demos\_lixo\TesteDDLJS\TesteDDLJS\bin\TesteDDLJS.dll
+C:\Projects\Demos\_lixo\TesteDDLJS\TesteDDLJS\bin\TesteDDLJS.pdb
+C:\Projects\Demos\_lixo\TesteDDLJS\TesteDDLJS\bin\Antlr3.Runtime.dll
+C:\Projects\Demos\_lixo\TesteDDLJS\TesteDDLJS\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Demos\_lixo\TesteDDLJS\TesteDDLJS\bin\Newtonsoft.Json.dll
+C:\Projects\Demos\_lixo\TesteDDLJS\TesteDDLJS\bin\System.Web.Helpers.dll
+C:\Projects\Demos\_lixo\TesteDDLJS\TesteDDLJS\bin\System.Web.Mvc.dll
+C:\Projects\Demos\_lixo\TesteDDLJS\TesteDDLJS\bin\System.Web.Optimization.dll
+C:\Projects\Demos\_lixo\TesteDDLJS\TesteDDLJS\bin\System.Web.Razor.dll
+C:\Projects\Demos\_lixo\TesteDDLJS\TesteDDLJS\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\Demos\_lixo\TesteDDLJS\TesteDDLJS\bin\System.Web.WebPages.dll
+C:\Projects\Demos\_lixo\TesteDDLJS\TesteDDLJS\bin\System.Web.WebPages.Razor.dll
+C:\Projects\Demos\_lixo\TesteDDLJS\TesteDDLJS\bin\WebGrease.dll
+C:\Projects\Demos\_lixo\TesteDDLJS\TesteDDLJS\bin\System.Web.Helpers.xml
+C:\Projects\Demos\_lixo\TesteDDLJS\TesteDDLJS\bin\System.Web.Mvc.xml
+C:\Projects\Demos\_lixo\TesteDDLJS\TesteDDLJS\bin\System.Web.Optimization.xml
+C:\Projects\Demos\_lixo\TesteDDLJS\TesteDDLJS\bin\System.Web.Razor.xml
+C:\Projects\Demos\_lixo\TesteDDLJS\TesteDDLJS\bin\System.Web.WebPages.xml
+C:\Projects\Demos\_lixo\TesteDDLJS\TesteDDLJS\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\Demos\_lixo\TesteDDLJS\TesteDDLJS\bin\System.Web.WebPages.Razor.xml
+C:\Projects\Demos\_lixo\TesteDDLJS\TesteDDLJS\bin\Antlr3.Runtime.pdb
+C:\Projects\Demos\_lixo\TesteDDLJS\TesteDDLJS\bin\Newtonsoft.Json.xml
+C:\Projects\Demos\_lixo\TesteDDLJS\TesteDDLJS\obj\Debug\TesteDDLJS.csprojResolveAssemblyReference.cache
+C:\Projects\Demos\_lixo\TesteDDLJS\TesteDDLJS\obj\Debug\TesteDDLJS.dll
+C:\Projects\Demos\_lixo\TesteDDLJS\TesteDDLJS\obj\Debug\TesteDDLJS.pdb
+C:\Projects\Demos\TesteDDLJS\TesteDDLJS\bin\TesteDDLJS.dll.config
+C:\Projects\Demos\TesteDDLJS\TesteDDLJS\bin\TesteDDLJS.dll
+C:\Projects\Demos\TesteDDLJS\TesteDDLJS\bin\TesteDDLJS.pdb
+C:\Projects\Demos\TesteDDLJS\TesteDDLJS\bin\Antlr3.Runtime.dll
+C:\Projects\Demos\TesteDDLJS\TesteDDLJS\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Demos\TesteDDLJS\TesteDDLJS\bin\Newtonsoft.Json.dll
+C:\Projects\Demos\TesteDDLJS\TesteDDLJS\bin\System.Web.Helpers.dll
+C:\Projects\Demos\TesteDDLJS\TesteDDLJS\bin\System.Web.Mvc.dll
+C:\Projects\Demos\TesteDDLJS\TesteDDLJS\bin\System.Web.Optimization.dll
+C:\Projects\Demos\TesteDDLJS\TesteDDLJS\bin\System.Web.Razor.dll
+C:\Projects\Demos\TesteDDLJS\TesteDDLJS\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\Demos\TesteDDLJS\TesteDDLJS\bin\System.Web.WebPages.dll
+C:\Projects\Demos\TesteDDLJS\TesteDDLJS\bin\System.Web.WebPages.Razor.dll
+C:\Projects\Demos\TesteDDLJS\TesteDDLJS\bin\WebGrease.dll
+C:\Projects\Demos\TesteDDLJS\TesteDDLJS\bin\System.Web.Helpers.xml
+C:\Projects\Demos\TesteDDLJS\TesteDDLJS\bin\System.Web.Mvc.xml
+C:\Projects\Demos\TesteDDLJS\TesteDDLJS\bin\System.Web.Optimization.xml
+C:\Projects\Demos\TesteDDLJS\TesteDDLJS\bin\System.Web.Razor.xml
+C:\Projects\Demos\TesteDDLJS\TesteDDLJS\bin\System.Web.WebPages.xml
+C:\Projects\Demos\TesteDDLJS\TesteDDLJS\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\Demos\TesteDDLJS\TesteDDLJS\bin\System.Web.WebPages.Razor.xml
+C:\Projects\Demos\TesteDDLJS\TesteDDLJS\bin\Antlr3.Runtime.pdb
+C:\Projects\Demos\TesteDDLJS\TesteDDLJS\bin\Newtonsoft.Json.xml
+C:\Projects\Demos\TesteDDLJS\TesteDDLJS\obj\Debug\TesteDDLJS.csprojResolveAssemblyReference.cache
+C:\Projects\Demos\TesteDDLJS\TesteDDLJS\obj\Debug\TesteDDLJS.dll
+C:\Projects\Demos\TesteDDLJS\TesteDDLJS\obj\Debug\TesteDDLJS.pdb
+C:\Projects\Demos\TesteDDLJS - Git\TesteDDLJS\bin\TesteDDLJS.dll.config
+C:\Projects\Demos\TesteDDLJS - Git\TesteDDLJS\bin\TesteDDLJS.dll
+C:\Projects\Demos\TesteDDLJS - Git\TesteDDLJS\bin\TesteDDLJS.pdb
+C:\Projects\Demos\TesteDDLJS - Git\TesteDDLJS\bin\Antlr3.Runtime.dll
+C:\Projects\Demos\TesteDDLJS - Git\TesteDDLJS\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Demos\TesteDDLJS - Git\TesteDDLJS\bin\Newtonsoft.Json.dll
+C:\Projects\Demos\TesteDDLJS - Git\TesteDDLJS\bin\System.Web.Helpers.dll
+C:\Projects\Demos\TesteDDLJS - Git\TesteDDLJS\bin\System.Web.Mvc.dll
+C:\Projects\Demos\TesteDDLJS - Git\TesteDDLJS\bin\System.Web.Optimization.dll
+C:\Projects\Demos\TesteDDLJS - Git\TesteDDLJS\bin\System.Web.Razor.dll
+C:\Projects\Demos\TesteDDLJS - Git\TesteDDLJS\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\Demos\TesteDDLJS - Git\TesteDDLJS\bin\System.Web.WebPages.dll
+C:\Projects\Demos\TesteDDLJS - Git\TesteDDLJS\bin\System.Web.WebPages.Razor.dll
+C:\Projects\Demos\TesteDDLJS - Git\TesteDDLJS\bin\WebGrease.dll
+C:\Projects\Demos\TesteDDLJS - Git\TesteDDLJS\bin\System.Web.Helpers.xml
+C:\Projects\Demos\TesteDDLJS - Git\TesteDDLJS\bin\System.Web.Mvc.xml
+C:\Projects\Demos\TesteDDLJS - Git\TesteDDLJS\bin\System.Web.Optimization.xml
+C:\Projects\Demos\TesteDDLJS - Git\TesteDDLJS\bin\System.Web.Razor.xml
+C:\Projects\Demos\TesteDDLJS - Git\TesteDDLJS\bin\System.Web.WebPages.xml
+C:\Projects\Demos\TesteDDLJS - Git\TesteDDLJS\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\Demos\TesteDDLJS - Git\TesteDDLJS\bin\System.Web.WebPages.Razor.xml
+C:\Projects\Demos\TesteDDLJS - Git\TesteDDLJS\bin\Antlr3.Runtime.pdb
+C:\Projects\Demos\TesteDDLJS - Git\TesteDDLJS\bin\Newtonsoft.Json.xml
+C:\Projects\Demos\TesteDDLJS - Git\TesteDDLJS\obj\Debug\TesteDDLJS.csprojResolveAssemblyReference.cache
+C:\Projects\Demos\TesteDDLJS - Git\TesteDDLJS\obj\Debug\TesteDDLJS.dll
+C:\Projects\Demos\TesteDDLJS - Git\TesteDDLJS\obj\Debug\TesteDDLJS.pdb

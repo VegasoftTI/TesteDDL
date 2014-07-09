@@ -1,0 +1,70 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="form-horizontal">
+    <h4>Teste DDL c/ Ajax</h4>
+    <hr />
+    <div class="form-group">
+        <label class="control-label col-md-2">Sexo</label>
+        <div class="col-md-10">
+            <select class="form-control select-pqno no-block" id="Sexo">
+                <option value=""> -- Selecione --</option>
+                <option value="1"> Masculino</option>
+                <option value="0">Feminino</option>
+            </select>
+            <img id="AjaxLoader" src="~/img/ajax-loader.gif" class="hide" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-md-2">Pessoas:</label>
+        <div class="col-md-10">
+            <select class="form-control select-grande" id="Pessoas">
+                <option> -- Selecione o sexo --</option>
+            </select>
+        </div>
+    </div>
+
+</div>
+
+@section Scripts {
+    <script>
+        $().ready(function () {
+            $("#Sexo").on("change", function () {
+                if ($(this).val() == "") {
+                    $("#Pessoas")
+                        .empty()
+                        .append('<option selected="selected"> -- Selecione o sexo --</option>');
+                }
+                else {
+                    var strUrl = "/Home/RetornadaLista/?sexo=" + $("#Sexo").val();
+                    $.ajax(
+                    {
+                        type: 'GET',
+                        url: strUrl,
+                        dataType: 'json',
+                        beforeSend: function () {
+                            $("#Pessoas")
+                                .empty()
+                                .append('<option selected="selected" value="whatever">Buscando...</option>');
+                            $("#AjaxLoader").removeClass("hide");
+                        },
+                        success: function (data) {
+                            var dados = data;
+                            $("#Pessoas").empty().append("<option> -- Selecione a Pessoa -- </option>");
+
+                            $.each(dados, function (i, item) {
+                                var opcao = "<option val='" + item.ID + "'>" + item.Nome + "</option>";
+                                $("#Pessoas").append(opcao);
+                            });
+                        },
+                        complete: function () {
+                            $("#AjaxLoader").addClass("hide");
+                        }
+                    });
+                }
+            });
+        });
+
+    </script>
+}
